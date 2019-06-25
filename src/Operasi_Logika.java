@@ -33,7 +33,7 @@ public class Operasi_Logika {
         System.out.println("A(" + A + ") || B(" + B + "), Hasil: " + C + "\n\n");
 
         
-        /* CONTOH 2: AND. Lambang: && (Vertical Bar) */
+        /* CONTOH 2: AND. Lambang: && (Double Ampersand) */
         System.out.println("===================================");
         System.out.println("CONTOH 2: Operasi AND, (Lambang: &&)");
         System.out.println("===================================");
